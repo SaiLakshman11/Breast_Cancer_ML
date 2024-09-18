@@ -1,4 +1,4 @@
-Breast Cancer Classification:
+# Breast Cancer Classification
 
 Summary: 
 Developed a breast cancer classification model using Logistic Regression, Decision tree, Random Forest, Support Vector Machines. Achieving an accuracy of over 90%.
